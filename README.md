@@ -1,4 +1,4 @@
-# Fraudulent_Claim_Detection_Niharika_Sravan_Pankaj
+# Fraudulent_Claim_Detection
 
 Project Overview
 
